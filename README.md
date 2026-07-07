@@ -6,3 +6,13 @@ Regarding the simulation environment, with dx=dy=dz=d_phi=d_theta=d_psi = 0 (err
 
 I simulated this project based on https://doi.org/10.1016/j.rico.2025.100568
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/33d6bda1-49a5-427b-9d9e-c7be9719fba1" />
+
+The trajectory is desied:
+xd = 0.5sin(pi*t/20 + pi/2)
+
+yd = 0.5sin(pi*t/2)
+
+zd = 2 + 0.5sin(pi*t/20 + 3*pi/2)
+
+psid = 0
+<img width="1074" height="674" alt="image" src="https://github.com/user-attachments/assets/d96c5303-c175-4c44-b873-8587e6cd30e2" />
