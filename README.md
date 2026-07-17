@@ -8,7 +8,7 @@ I simulated this project based on https://doi.org/10.1016/j.rico.2025.100568
 <img width="1917" height="1009" alt="image" src="https://github.com/user-attachments/assets/e71dcf3e-4427-41ae-bad3-39e0e28d23ca" />
 
 
-The trajectory is desied:
+The trajectory is desired:
 
 xd = 0.5sin(pi*t/20 + pi/2)
 
